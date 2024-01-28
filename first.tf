@@ -2,7 +2,7 @@
     //identifier = expression
 // }
 
-output "hello1" {
+output "hello1 hy" {
     value = "Hello World123"
 }
 
